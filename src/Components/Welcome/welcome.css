@@ -1,0 +1,36 @@
+
+
+   .carosello{
+    text-align: center;
+    
+   }
+   .carousel-control-next-icon{
+    background-color: rgb(82, 82, 82);
+   }
+
+   .carousel-control-prev-icon{
+    background-color: rgb(82, 82, 82);
+   }
+
+   html, body {
+      height: 100%;
+    }
+    
+    .container {
+      height: 100%;
+    }
+    
+    .carousel {
+      height: 100%;
+    }
+    
+    .carousel-item {
+      height: 100%;
+    }
+    
+    .carousel-item img {
+      object-fit: cover;
+      width: 100%;
+      height: 100%;
+    }
+    
